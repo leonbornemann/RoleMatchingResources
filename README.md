@@ -3,7 +3,7 @@ This repository contains links to all resources relevant for the SIGMOD 2023 Sub
 
 ## Code
 * Evaluation and Plots via Jupyter Notebooks: https://anonymous.4open.science/r/UAHGFIADFGOSKHIQAEFUHKSADHVBOQWIFJ/README.md
-* Implementation (in scala) of EM,CBRB (with and without decay),CQM,TSM,VSM: avaliable soon
+* Implementation (in scala) of EM,CBRB (with and without decay),CQM,TSM,VSM as well as various data exports and transformations: https://anonymous.4open.science/r/SDKJSDFPAWOIIEUFZHLSXMCBVKUERHF/README.md
 * Implementation (in go) of RM: avaliable soon
 
 ## Datasets
