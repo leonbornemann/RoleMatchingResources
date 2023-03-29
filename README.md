@@ -2,9 +2,9 @@
 This repository contains links to all resources relevant for the SIGMOD 2023 Submission "Role Matching in Temporal Data"
 
 ## Code
-* Main Implementation in scala. Implements EM,CBRB (with and without decay),CQM,TSM,VSM as well as various data exports and transformations to exchange data between the different programming languages: https://anonymous.4open.science/r/SDKJSDFPAWOIIEUFZHLSXMCBVKUERHF/README.md
-* Evaluation and Plots via Jupyter Notebooks: https://anonymous.4open.science/r/UAHGFIADFGOSKHIQAEFUHKSADHVBOQWIFJ/README.md
-* Implementation (in go) of RM: https://anonymous.4open.science/r/LSHEnsembleForRoleMatching-CFEC/README.md
+* Main Implementation in scala. Implements EM,CBRB (with and without decay),CQM,TSM,VSM as well as various data exports and transformations to exchange data between the different programming languages: https://github.com/leonbornemann/CompatibilityBasedRoleMatching/
+* Evaluation and Plots via Jupyter Notebooks: https://github.com/leonbornemann/RoleMatchingEvaluation/
+* Implementation (in go) of RM: https://github.com/leonbornemann/LSHEnsembleForRoleMatching/
 
 ## Datasets
 * Source for raw Wikipedia version history data: https://dumps.wikimedia.org/
